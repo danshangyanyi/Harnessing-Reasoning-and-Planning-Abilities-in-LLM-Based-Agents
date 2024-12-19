@@ -46,9 +46,7 @@ Last update: 12/05/2024
 
 ##### Categories
 
-- [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
-
-- [**CRAFT**](https://arxiv.org/pdf/2309.17428.pdf) - CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets
+- [**Synapes**](https://arxiv.org/pdf/2306.07863.pdf) - Synapse: Trajectory-as-exemplar prompting with memory for computer control.
   
 - [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
 ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
