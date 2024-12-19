@@ -89,17 +89,30 @@ Last update: 12/05/2024
 
 - [**Autoact**](https://arxiv.org/pdf/2401.05268.pdf) - Autoact: Automatic agent learning from scratch via self-planning. [Github](https://github.com/zjunlp/AutoAct)
 
+- [**UALA**](https://arxiv.org/pdf/2401.14016.pdf) - Towards Uncertainty-Aware Language Agent. [Github](https://uala-agent.github.io/)
 
+##### Adjustment
 
-![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Plus-Codebase.svg?style=social&label=Star)
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
 
-- [**GPT4Tools**](https://arxiv.org/pdf/2305.18752.pdf) - GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Github](https://github.com/AILab-CVC/GPT4Tools)
-![Star](https://img.shields.io/github/stars/AILab-CVC/GPT4Tools.svg?style=social&label=Star)
+- [**Generative agents**](https://arxiv.org/pdf/2304.03442.pdf) - Generative agents: Interactive simulacra of human behavior.
 
-- [**WebWISE**](https://arxiv.org/pdf/2310.16042.pdf) - WebWISE: Web Interface Control and Sequential Exploration with Large Language Models 
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
 
-- [**Auto-UI**](https://arxiv.org/pdf/2309.11436.pdf) - You Only Look at Screens: Multimodal Chain-of-Action Agents [Github](https://github.com/cooelf/Auto-UI)
-![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
+- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+
 
 #### Type Ⅲ
 
