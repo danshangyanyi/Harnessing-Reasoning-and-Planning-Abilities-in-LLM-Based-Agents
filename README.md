@@ -9,17 +9,14 @@ Last update: 12/05/2024
   - [Scenarios](#scenarios)
   - [Framework](#framework)
     - [During Perception](#Perception)
-        - [Categories](#categorizesI)
         - [Selection](#Selection)
-        - [Preprocess](#Perprocess)
+        - [Preprocess](#Preprocess)
         - [Perception Planning](#Perception_Planning)
     - [During Action](#Action)
-        - [Categories](#categorizesII)
         - [Dynamic Tool Selection](#Dyanamic_Tool_Selection)
         - [Adjustment](#Adjustment)
         - [Long Term Task](#Long_Term_Task)
     - [During Reasoning](#Reasoning)
-        - [Categories](#categorizesIII)
         - [Result Analyse](#Result_Analyse)
         - [Trajectory Analyse](#Trajectory_Analyse)
         - [Thinking Summarize](#Thinking_Summarize)
@@ -44,88 +41,56 @@ Last update: 12/05/2024
 
 #### Perception
 
-##### Categories
+<img src="./img/table.png" width="96%" height="96%">
 
-- [**Synapes**](https://arxiv.org/pdf/2306.07863.pdf) - Synapse: Trajectory-as-exemplar prompting with memory for computer control.
+##### Selection
+
+- [**Synapes**](https://arxiv.org/pdf/2306.07863.pdf) - Synapse: Trajectory-as-exemplar prompting with memory for computer control. [Github](https://ltzheng.github.io/Synapse/)
   
-- [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
-![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
+- [**MT-Mind2Web**](https://arxiv.org/pdf/2402.15057.pdf) - On the Multi-turn Instruction Following for Conversational Web Agents. [Github](https://github.com/magicgh/self-map)
 
-- [**HuggingGPT**](https://arxiv.org/pdf/2303.17580.pdf) - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [Github](https://github.com/microsoft/JARVIS)
-![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)
+- [**KAFT**](https://arxiv.org/pdf/2211.05110.pdf) - Large language models with controllable working memory.
 
-- [**Chameleon**](https://arxiv.org/pdf/2304.09842.pdf) - Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Github](https://github.com/lupantech/chameleon-llm)
-![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)
+##### Preprocess
 
-- [**Visual ChatGPT**](https://arxiv.org/pdf/2303.04671.pdf) - Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Github](https://github.com/moymix/TaskMatrix)
-![Star](https://img.shields.io/github/stars/moymix/TaskMatrix.svg?style=social&label=Star)
+- [**Steve-eye**](https://arxiv.org/pdf/2310.13255.pdf) - Steve-eye: Equipping llm-based embodied agents with visual perception in open worlds. [Project](https://sites.google.com/view/steve-eye)
 
-- [**AssistGPT**](https://arxiv.org/pdf/2306.08640.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
-![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+- [**Seeclick**](https://arxiv.org/pdf/2401.10935.pdf) - Seeclick: Harnessing gui grounding for advanced visual gui agents. [Github](https://github.com/njucckevin/SeeClick)
 
-- [**M3**](https://arxiv.org/pdf/2310.08446.pdf) - Towards Robust Multi-Modal Reasoning via Model Selection [Github](https://github.com/LINs-lab/M3)
-![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+- [**PerceptiveAgent**](https://arxiv.org/pdf/2406.12707.pdf) - Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction. [Github](https://github.com/Haoqiu-Yan/PerceptiveAgent)
 
-- [**VisProgram**](https://arxiv.org/pdf/2211.11559.pdf) - Visual Programming: Compositional visual reasoning without training
+- [**Auto-GUI**](https://arxiv.org/pdf/2309.11436.pdf) - You only look at screens: Multimodal chain-of-action agents. [Github](https://github.com/cooelf/Auto-GUI.)
+
+- [**OPAL**](https://aclanthology.org/2024.findings-acl.12/.pdf) - Text2DB: Integration-Aware Information Extraction with Large Language Model Agents.
+
+##### Preception_Planning
+
+- [**GeoAgent**](https://aclanthology.org/2024.findings-acl.362.pdf) - GeoAgent: To Empower LLMs using Geospatial Tools for Address Standardization. [Github](https://github.com/chenghuahuang/GeoAgent)
+
+- [**OPAL**](https://aclanthology.org/2024.findings-acl.12/.pdf) - Text2DB: Integration-Aware Information Extraction with Large Language Model Agents.
+
+- [**HTTP**](https://aclanthology.org/2024.acl-long.716.pdf) - Visualization recommendation with prompt-based reprogramming of large language models.
 
 - [**DDCoT**](https://arxiv.org/pdf/2310.16436.pdf) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Github](https://github.com/SooLab/DDCOT)
-![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
-
-- [**ASSISTGUI**](https://arxiv.org/pdf/2312.13108.pdf) - ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation [Github](https://github.com/showlab/assistgui)
-![Star](https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star)
-
-- [**GPT-Driver**](https://arxiv.org/pdf/2310.01415.pdf) - GPT-Driver: Learning to Drive with GPT [Github](https://github.com/PointsCoder/GPT-Driver)
-![Star](https://img.shields.io/github/stars/PointsCoder/GPT-Driver.svg?style=social&label=Star)
-
-- [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
-LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
-![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star)
-
-- [**MusicAgent**](https://arxiv.org/pdf/2310.11954.pdf) - MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models [Github](https://github.com/microsoft/muzic/tree/main)
-![Star](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)
 
 
-- [**AudioGPT**](https://arxiv.org/pdf/2304.12995.pdf) - AudioGPT: Understanding and Generating Speech,
-Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
-![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
+#### Action
 
+<img src="./img/table.png" width="96%" height="96%">
 
-- [**DroidBot-GPT**](https://arxiv.org/pdf/2304.07061.pdf) - DroidBot-GPT: GPT-powered UI Automation for Android [Github](https://github.com/MobileLLM/DroidBot-GPT)
-![Star](https://img.shields.io/github/stars/MobileLLM/DroidBot-GPT.svg?style=social&label=Star)
+##### Dynamic Tool Selection
 
-- [**GRID**](https://arxiv.org/pdf/2311.05997.pdf) - GRID: A Platform for General Robot Intelligence Development [Github](https://github.com/ScaledFoundations/GRID-playground)
-![Star](https://img.shields.io/github/stars/ScaledFoundations/GRID-playground.svg?style=social&label=Star)
-
-- [**DEPS**](https://arxiv.org/pdf/2302.01560.pdf) - Describe, Explain, Plan and Select:
-Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents [Github](https://github.com/CraftJarvis/MC-Planner)
-![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Planner.svg?style=social&label=Star)
-
-- [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
-![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
-
-- [**MuLan**](https://arxiv.org/pdf/2402.12741.pdf) - MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion [Github](https://github.com/measure-infinity/mulan-code)
-![Star](https://img.shields.io/github/stars/measure-infinity/mulan-code.svg?style=social&label=Star)
-
-- [**Mobile-Agent**](https://arxiv.org/pdf/2401.16158.pdf) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [Github](https://github.com/X-PLUG/MobileAgent)![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
-
-- [**SeeAct**](https://arxiv.org/pdf/2401.01614) - GPT-4V(ision) is a Generalist Web Agent, if Grounded
- [Github]("https://github.com/OSU-NLP-Group/SeeAct")![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social)
-
-
-#### Type Ⅱ
-
- - [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
-![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star)
-
-
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
-
+- [**Codeagent**](https://arxiv.org/pdf/2401.07339.pdf) - Codeagent: Enhancing code generation with tool-integrated agent systems for real-world repo-level coding challenges.
 
 - [**MLLM-Tool**](https://arxiv.org/pdf/2401.10727.pdf) - MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning [Github](https://github.com/MLLM-Tool/MLLM-Tool)
-![Star](https://img.shields.io/github/stars/MLLM-Tool/MLLM-Tool.svg?style=social&label=Star)
 
-- [**LLaVA-Plus**](https://arxiv.org/pdf/2306.08640.pdf) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills [Github](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)
+- [**TPTU**](https://arxiv.org/pdf/2311.16714.pdf) - TPTU: large language model-based AI agents for task planning and tool usage. [Github](https://github.com/stevenyangyj/Emma-Alfworld)
+![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
+
+- [**Autoact**](https://arxiv.org/pdf/2401.05268.pdf) - Autoact: Automatic agent learning from scratch via self-planning. [Github](https://github.com/zjunlp/AutoAct)
+
+
+
 ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Plus-Codebase.svg?style=social&label=Star)
 
 - [**GPT4Tools**](https://arxiv.org/pdf/2305.18752.pdf) - GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Github](https://github.com/AILab-CVC/GPT4Tools)
