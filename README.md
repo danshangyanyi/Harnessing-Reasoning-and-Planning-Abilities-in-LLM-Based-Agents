@@ -7,19 +7,28 @@ Last update: 12/05/2024
 <font size=5><center><b> Table of Contents </b> </center></font>
 - [Papers](#Apapers)
   - [Scenarios](#scenarios)
-    - [Type Ⅰ](#Type-Ⅰ)
-    - [Type Ⅱ](#Type-Ⅱ)
-    - [Type Ⅲ](#Type-Ⅲ)
-    - [Type Ⅳ](#Type-Ⅳ)
-    - [Multi-Agent](#Multi-Agent)
+  - [Framework](#framework)
+    - [During Perception](#Perception)
+        - [Categories](#categorizesI)
+        - [Selection](#Selection)
+        - [Preprocess](#Perprocess)
+        - [Perception Planning](#Perception_Planning)
+    - [During Action](#Action)
+        - [Categories](#categorizesII)
+        - [Dynamic Tool Selection](#Dyanamic_Tool_Selection)
+        - [Adjustment](#Adjustment)
+        - [Long Term Task](#Long_Term_Task)
+    - [During Reasoning](#Reasoning)
+        - [Categories](#categorizesIII)
+        - [Result Analyse](#Result_Analyse)
+        - [Trajectory Analyse](#Trajectory_Analyse)
+        - [Thinking Summarize](#Thinking_Summarize)
   - [Application](#application)
-    - [Complex Visual Reasoning Tasks](#-complex-visual-reasoning-tasks)
-    - [Audio Editing & Generation](#-audio-editing--generation)
-    - [Embodied AI & Robotics](#-embodied-ai--robotics)
-    - [UI-assistants](#--ui-assistants)
-    - [Video Understanding](#-video-understanding)
-    - [Visual Generation & Editing](#-visual-generation--editing)
-    - [Game-developer](#-game-developer)
+    - [Social Simulation](#Social)
+    - [Game](#Game)
+    - [Visual Task](#Visual)
+    - [Economy Simulation](#Economy_Simulation)
+    - [Multi-Agent Application](#Multi-Agent)
 - [Benchmark](#benchmark)
 ---
 
@@ -29,8 +38,13 @@ Last update: 12/05/2024
 
 <img src="./img/table.png" width="96%" height="96%">
 
-#### Type Ⅰ
+### Framework
 
+<img src="./img/table.png" width="96%" height="96%">
+
+#### Perception
+
+##### Categories
 
 - [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
 
