@@ -194,159 +194,38 @@ Last update: 12/05/2024
 
 - [**LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models**](https://arxiv.org/pdf/2404.01230.pdf)
 
-#### 🤖 Embodied AI & Robotics
+#### Visual Reasoning and Web Reasoning with Figure
 
-- [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
-Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
-![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star)
+- [**Seeclick**](https://arxiv.org/pdf/2401.10935.pdf) - Seeclick: Harnessing gui grounding for advanced visual gui agents. [Github](https://github.com/njucckevin/SeeClick)
 
+- [**Auto-GUI**](https://arxiv.org/pdf/2309.11436.pdf) - You only look at screens: Multimodal chain-of-action agents. [Github](https://github.com/cooelf/Auto-GUI)
 
-- [**DEPS**](https://arxiv.org/pdf/2302.01560.pdf) - Describe, Explain, Plan and Select:
-Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents [Github](https://github.com/CraftJarvis/MC-Planner)
-![Star](https://img.shields.io/github/stars/CraftJarvis/MC-Planner.svg?style=social&label=Star)
+- [**WebVoyager**](https://arxiv.org/pdf/2401.13919.pdf) - WebVoyager : Building an End-to-End Web Agent with Large Multimodal Models. [Github](https://github.com/MinorJerry/WebVoyager)
 
+- [**DDCoT**](https://arxiv.org/pdf/2310.16436.pdf) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Github](https://github.com/SooLab/DDCOT)
 
-- [**Octopus**](https://arxiv.org/pdf/2310.08588.pdf) - Octopus: Embodied Vision-Language Programmer from Environmental Feedback [Github](https://github.com/dongyh20/Octopus)
-![Star](https://img.shields.io/github/stars/dongyh20/Octopus.svg?style=social&label=Star)
-
-- [**GRID**](https://arxiv.org/pdf/2311.05997.pdf) - GRID: A Platform for General Robot Intelligence Development [Github](https://github.com/ScaledFoundations/GRID-playground)
-![Star](https://img.shields.io/github/stars/ScaledFoundations/GRID-playground.svg?style=social&label=Star)
-
-
-- [**MP5**](https://arxiv.org/pdf/2312.07472.pdf) - MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [Github](https://github.com/IranQin/MP5)
-![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star)
-
-- [**STEVE**](https://arxiv.org/pdf/2311.15209.pdf) - See and Think: Embodied Agent in Virtual Environment [Github](https://github.com/rese1f/STEVE)
-![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star)
-
-
-- [**EMMA**](https://arxiv.org/pdf/2311.16714.pdf) - Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld [Github](https://github.com/stevenyangyj/Emma-Alfworld)
-![Star](https://img.shields.io/github/stars/stevenyangyj/Emma-Alfworld.svg?style=social&label=Star)
-
-- [**MEIA**](https://arxiv.org/abs/2402.00290) - Multimodal Embodied Interactive Agent for Cafe Scene 
-
-#### 🖱️💻 UI-assistants
-- [**AppAgent**](https://arxiv.org/pdf/2312.13771.pdf) - AppAgent: Multimodal Agents as Smartphone Users [Github](https://github.com/mnotgod96/AppAgent)
-![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star)
-
-- [**DroidBot-GPT**](https://arxiv.org/pdf/2304.07061.pdf) - DroidBot-GPT: GPT-powered UI Automation for Android [Github](https://github.com/MobileLLM/DroidBot-GPT)
-![Star](https://img.shields.io/github/stars/MobileLLM/DroidBot-GPT.svg?style=social&label=Star)
-
-- [**WebWISE**](https://arxiv.org/pdf/2310.16042.pdf) - WebWISE: Web Interface Control and Sequential Exploration with Large Language Models 
-
-- [**Auto-UI**](https://arxiv.org/pdf/2309.11436.pdf) - You Only Look at Screens: Multimodal Chain-of-Action Agents [Github](https://github.com/cooelf/Auto-UI)
-![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
-
-- [**MemoDroid**](https://arxiv.org/pdf/2312.03003.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation 
-
-- [**ASSISTGUI**](https://arxiv.org/pdf/2312.13108.pdf) - ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation [Github](https://github.com/showlab/assistgui)
-![Star](https://img.shields.io/github/stars/showlab/assistgui.svg?style=social&label=Star)
-
-- [**MM-Navigator**](https://arxiv.org/pdf/2311.07562.pdf) - GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation [Github](https://github.com/zzxslp/MM-Navigator)
-![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)
-
-- [**AutoDroid**](https://arxiv.org/pdf/2308.15272.pdf) - Empowering LLM to use Smartphone for Intelligent Task Automation [Github](https://github.com/MobileLLM/AutoDroid)
-![Star](https://img.shields.io/github/stars/MobileLLM/AutoDroid.svg?style=social&label=Star)
-
-- [**GPT-4V-Act**](https://github.com/ddupont808/GPT-4V-Act) - GPT-4V-Act: Chromium Copilot [Github](https://github.com/ddupont808/GPT-4V-Act)
-![Star](https://img.shields.io/github/stars/ddupont808/GPT-4V-Act.svg?style=social&label=Star)
-
-- [**Mobile-Agent**](https://arxiv.org/pdf/2401.16158.pdf) - Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception [Github](https://github.com/X-PLUG/MobileAgent)![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)
-
-- [**OpenAdapt**]- OpenAdapt: AI-First Process Automation with Large Multimodal Models [Github](https://github.com/OpenAdaptAI/OpenAdapt)![Star](https://img.shields.io/github/stars/OpenAdaptAI/OpenAdapt.svg?style=social&label=Star)
-
-- [**EnvDistraction**]- Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions [Github](https://github.com/xbmxb/EnvDistraction)![Star](https://img.shields.io/github/stars/xbmxb/EnvDistraction.svg?style=social&label=Star)
-
-
-#### 🎨 Visual Generation & Editing
-- [**LLaVA-Interactive**](https://arxiv.org/pdf/2311.00571.pdf) - 
-LLaVA-Interactive: An All-in-One Demo for Image Chat, Segmentation, Generation and Editing [Github](https://github.com/LLaVA-VL/LLaVA-Interactive-Demo)
-![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Interactive-Demo.svg?style=social&label=Star)
+- [**MT-Mind2Web**](https://arxiv.org/pdf/2402.15057.pdf) - On the Multi-turn Instruction Following for Conversational Web Agents. [Github](https://github.com/magicgh/self-map)
 
 - [**MM-REACT**](https://arxiv.org/pdf/2303.11381.pdf) - MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action [Github](https://github.com/microsoft/MM-REACT)
 ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star)
 
-- [**SeeAct**](https://arxiv.org/pdf/2401.01614) - GPT-4V(ision) is a Generalist Web Agent, if Grounded
- [Github]("https://github.com/OSU-NLP-Group/SeeAct")![Star](https://img.shields.io/github/stars/OSU-NLP-Group/SeeAct?style=social)
+#### Economy Simulation
+- [**TRADINGGPT**](https://arxiv.org/pdf/2309.03736.pdf) - TRADINGGPT: MULTI-AGENT SYSTEM WITH LAYERED MEMORY AND DISTINCT CHARACTERS FOR ENHANCED FINANCIAL TRADING PERFORMANCE.
 
-- [**GenAI**](https://arxiv.org/pdf/2409.11261.pdf) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
-Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github.com/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
+- [**EconAgent**](https://arxiv.org/pdf/2310.10436.pdf) - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities. [Github](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)
 
-- [**GenArtist**](https://arxiv.org/pdf/2407.05600.pdf) - GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [Github](https://github.com/zhenyuw16/GenArtist)![Star](https://img.shields.io/github.com/zhenyuw16/GenArtist.svg?style=social&label=Star)
+#### Multi-Agent
+- [**ChatDev**](https://arxiv.org/pdf/2307.07924.pdf) - ChatDev: Communicative Agents for Software Development. [Github](https://github.com/OpenBMB/ChatDev)
 
-#### 🎥 Video Understanding
+- [**MetaGPT**](https://arxiv.org/pdf/2304.07590.pdf) - Self-collaboration Code Generation via ChatGPT. [Github](https://github.com/YihongDong/Self-collaboration-Code-Generation)
 
-- [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
-![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
+- [**AutoGen**](https://arxiv.org/pdf/2308.08155.pdf) - AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation. [Github]("https://github.com/microsoft/autogen")
 
-- [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
+- [**CAMEL**](https://arxiv.org/pdf/2303.17760.pdf) - CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society [Github](https://github.com/camel-ai/camel)
 
-- [**AssistGPT**](https://arxiv.org/pdf/2401.08392.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
-![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
-
-- [**VideoAgent-M**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
-
-- [**VideoAgent-L**](https://arxiv.org/pdf/2403.10517) - VideoAgent: Long-form Video Understanding with Large Language Model as Agent [Project page](https://wxh1996.github.io/VideoAgent-Website/)
-
-- [**Kubrick**](https://www.arxiv.org/pdf/2408.10453.pdf) - Kubrick: Multimodal Agent Collaborations for Synthetic Video Generation [Github](https://github.com/gd3kr/BlenderGPT)
-![Star](https://img.shields.io/github/stars/gd3kr/BlenderGPT.svg?style=social&label=Star)
-
-- [**Anim-Director**](https://arxiv.org/pdf/2408.09787.pdf) - Anim-Director: A Large Multimodal Model Powered Agent for Controllable Animation Video Generation [Github](https://github.com/HITsz-TMG/Anim-Director)
-![Star](https://img.shields.io/github/stars/HITsz-TMG/Anim-Director.svg?style=social&label=Star)
-
-
-#### 🚗 Autonomous Driving
-
-
-- [**GPT-Driver**](https://arxiv.org/pdf/2310.01415.pdf) - GPT-Driver: Learning to Drive with GPT [Github](https://github.com/PointsCoder/GPT-Driver)
-![Star](https://img.shields.io/github/stars/PointsCoder/GPT-Driver.svg?style=social&label=Star)
-
-- [**DLAH**](https://arxiv.org/pdf/2307.07162.pdf) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)
-![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
-
-
-
-#### 🎮 Game-developer
-
-- [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
-![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
-
-- [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
-![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
-
-- [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
-
-- [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Can AI Prompt Humans? Multimodal Agents Prompt Players’ Game Actions and Show Consequences to Raise Sustainability Awareness [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
-
-#### Other
-
-- [**FinAgent**](https://arxiv.org/pdf/2402.18485.pdf) - A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist
-
-- [**VisionGPT**](https://arxiv.org/pdf/2402.18485.pdf) - VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework
-
-- [**WirelessAgent**](https://arxiv.org/pdf/2409.07964.pdf) - WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks
+- [**MEDAGENTS**](https://arxiv.org/pdf/2311.10537.pdf) - MEDAGENTS: Large Language Models as Collaborators for Zero-shot Medical Reasoning [Github](https://github.com/gersteinlab/MedAgents)
   
-- [**PhishAgent**](https://arxiv.org/pdf/2408.10738.pdf) - PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection
+- [**Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?**](https://arxiv.org/pdf/2402.18272.pdf)
 
-- [**MMRole**](https://arxiv.org/pdf/2408.04203.pdf) - MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents [Github](https://github.com/YanqiDai/MMRole) ![Star](https://img.shields.io/github/stars/YanqiDai/MMRole.svg?style=social&label=Star)
-  
-## Benchmark
 
-- [**SmartPlay**](https://arxiv.org/pdf/2310.01557.pdf) - SmartPlay: A Benchmark for LLMs as Intelligent Agents [Github](https://github.com/microsoft/SmartPlay)
-![Star](https://img.shields.io/github/stars/microsoft/SmartPlay.svg?style=social&label=Star)
 
-- [**VisualWebArena**](https://arxiv.org/pdf/2401.13649.pdf) - VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks [Github](https://github.com/web-arena-x/visualwebarena)
-![Star](https://img.shields.io/github/stars/web-arena-x/visualwebarena.svg?style=social&label=Star)
-
-- [**Mind2Web**](https://arxiv.org/pdf/2306.06070) - MIND2WEB: Towards a Generalist Agent for the Web [Github](https://github.com/OSU-NLP-Group/Mind2Web)
-![Star](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web?style=social&label=Mind2Web)
-
-- [**GAIA**](https://arxiv.org/pdf/2311.12983.pdf) - GAIA: a benchmark for General AI Assistants [Github](https://huggingface.co/gaia-benchmark)
-
-- [**OmniACT**](https://arxiv.org/pdf/2402.17553.pdf) - OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist 
-
-- [**DSBench**](https://arxiv.org/pdf/2409.07703.pdf) - DSBENCH: HOW FAR ARE DATA SCIENCE AGENTS TO BECOMING DATA SCIENCE EXPERTS? [Github](https://github.com/LiqiangJing/DSBench)
-![Star](https://img.shields.io/github/stars/LiqiangJing/DSBench.svg?style=social&label=Star)
-
-- [**GTA**](https://arxiv.org/pdf/2407.08713.pdf) - GTA: A Benchmark for General Tool Agents [Github](https://github.com/open-compass/GTA)
-![Star](https://img.shields.io/github/stars/open-compass/GTA.svg?style=social&label=Star)
