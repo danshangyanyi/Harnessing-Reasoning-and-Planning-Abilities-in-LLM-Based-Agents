@@ -10,7 +10,7 @@ Last update: 12/05/2024
   - [Framework](#framework)
     - [During Perception](#Perception)
         - [Selection](#Selection)
-        - [Preprocess](#Preprocess)
+        - [Preprocessing](#Preprocessing)
         - [Perception Planning](#Perception_Planning)
     - [During Action](#Action)
         - [Dynamic Tool Selection](#Dyanamic_Tool_Selection)
@@ -51,7 +51,7 @@ Last update: 12/05/2024
 
 - [**KAFT**](https://arxiv.org/pdf/2211.05110.pdf) - Large language models with controllable working memory.
 
-##### Preprocess
+##### Preprocessing
 
 - [**Steve-eye**](https://arxiv.org/pdf/2310.13255.pdf) - Steve-eye: Equipping llm-based embodied agents with visual perception in open worlds. [Project](https://sites.google.com/view/steve-eye)
 
@@ -97,21 +97,33 @@ Last update: 12/05/2024
 
 - [**Generative agents**](https://arxiv.org/pdf/2304.03442.pdf) - Generative agents: Interactive simulacra of human behavior.
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**SYNAPSE**](https://arxiv.org/pdf/2306.07863.pdf) - SYNAPSE: TRAJECTORY-AS-EXEMPLAR PROMPTING WITH MEMORY FOR COMPUTER CONTROL. [Github](https://ltzheng.github.io/Synapse)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**RaDA**](https://aclanthology.org/2024.findings-acl.802.pdf) - RaDA: Retrieval-augmented Web Agent Planning with LLMs. [Github](https://github.com/ldilab/RaDA)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**WebVoyager**](https://arxiv.org/pdf/2401.13919.pdf) - WebVoyager : Building an End-to-End Web Agent with Large Multimodal Models. [Github](https://github.com/MinorJerry/WebVoyager)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**Retroformer**](https://arxiv.org/pdf/2308.02151.pdf) - RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION. [Github](https://github.com/weirayao/Retroformer)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**LATS**](https://arxiv.org/pdf/2310.04406.pdf) - Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models. [Github](https://github.com/lapisrocks/LanguageAgentTreeSearch)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**RAFA**](https://arxiv.org/pdf/2309.17382.pdf) - Reason for Future, Act for Now: A Principled Architecture for Autonomous LLM Agents. [Github](https://github.com/agentification/RAFA_code)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**QueryAgent**](https://arxiv.org/pdf/2403.11886.pdf) - QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction. [Github](https://github.com/cdhx/QueryAgent)
 
-- [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
+- [**Auto-GUI**](https://arxiv.org/pdf/2309.11436.pdf) - You only look at screens: Multimodal chain-of-action agents. [Github](https://github.com/cooelf/Auto-GUI)
+
+- [**Readi**](https://arxiv.org/abs/2403.08593.pdf) - Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments. [Github](https://github.com/microsoft/Readi)
+
+- [**UALA**](https://arxiv.org/abs/2401.14016.pdf) - Towards Uncertainty-Aware Language Agent. [Github](https://uala-agent.github.io/)
+
+##### Long_Term_Task
+
+- [**GITM**](https://arxiv.org/abs/2305.17144.pdf) - Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. [Github](https://github.com/OpenGVLab/GITM)
+
+- [**Voyager**](https://arxiv.org/abs/2305.16291.pdf) - VOYAGER: An Open-Ended Embodied Agent with Large Language Models.
+
+- [**EconAgent**](https://arxiv.org/abs/2310.10436.pdf) - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities. [Github](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)
 
 
 #### Type Ⅲ
