@@ -91,6 +91,8 @@ Last update: 12/05/2024
 
 - [**UALA**](https://arxiv.org/pdf/2401.14016.pdf) - Towards Uncertainty-Aware Language Agent. [Github](https://uala-agent.github.io/)
 
+- [**TPTU-v2**](https://arxiv.org/pdf/2311.11315.pdf) - TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems.
+
 ##### Adjustment
 
 - [**ReAct**](https://arxiv.org/pdf/2210.03629.pdf) - React: Synergizing reasoning and acting in language models. [Github](https://github.com/ysymyth/ReAct)
@@ -113,90 +115,64 @@ Last update: 12/05/2024
 
 - [**Auto-GUI**](https://arxiv.org/pdf/2309.11436.pdf) - You only look at screens: Multimodal chain-of-action agents. [Github](https://github.com/cooelf/Auto-GUI)
 
-- [**Readi**](https://arxiv.org/abs/2403.08593.pdf) - Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments. [Github](https://github.com/microsoft/Readi)
+- [**Readi**](https://arxiv.org/pdf/2403.08593.pdf) - Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments. [Github](https://github.com/microsoft/Readi)
 
-- [**UALA**](https://arxiv.org/abs/2401.14016.pdf) - Towards Uncertainty-Aware Language Agent. [Github](https://uala-agent.github.io/)
+- [**UALA**](https://arxiv.org/pdf/2401.14016.pdf) - Towards Uncertainty-Aware Language Agent. [Github](https://uala-agent.github.io/)
 
 ##### Long_Term_Task
 
-- [**GITM**](https://arxiv.org/abs/2305.17144.pdf) - Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. [Github](https://github.com/OpenGVLab/GITM)
+- [**GITM**](https://arxiv.org/pdf/2305.17144.pdf) - Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. [Github](https://github.com/OpenGVLab/GITM)
 
-- [**Voyager**](https://arxiv.org/abs/2305.16291.pdf) - VOYAGER: An Open-Ended Embodied Agent with Large Language Models.
+- [**Voyager**](https://arxiv.org/pdf/2305.16291.pdf) - VOYAGER: An Open-Ended Embodied Agent with Large Language Models.
 
-- [**EconAgent**](https://arxiv.org/abs/2310.10436.pdf) - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities. [Github](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)
+- [**EconAgent**](https://arxiv.org/pdf/2310.10436.pdf) - EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities. [Github](https://github.com/tsinghua-fib-lab/ACL24-EconAgent)
 
 
-#### Type Ⅲ
+#### Reasoning
 
-- [**DoraemonGPT**](https://arxiv.org/pdf/2401.08392.pdf) - DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models [Github](https://github.com/cooelf/Auto-UI)
-![Star](https://img.shields.io/github/stars/cooelf/Auto-UI.svg?style=social&label=Star)
+<img src="./img/table.png" width="96%" height="96%">
 
-- [**ChatVideo**](https://arxiv.org/pdf/2304.14407.pdf) - ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System [Github](https://www.wangjunke.info/ChatVideo/)
+##### Result_Analyse
 
-- [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
+- [**Retroformer**](https://arxiv.org/pdf/2308.02151.pdf) - RETROFORMER: RETROSPECTIVE LARGE LANGUAGE AGENTS WITH POLICY GRADIENT OPTIMIZATION. [Github](https://github.com/weirayao/Retroformer)
 
-#### Type Ⅳ
+- [**SELF-REFINE**](https://arxiv.org/pdf/2303.17651.pdf) - SELF-REFINE: Iterative Refinement with Self-Feedback. [Github](https://github.com/madaan/self-refine)
 
-- [**JARV IS-1**](https://arxiv.org/pdf/2311.05997.pdf) - JARVIS-1: Open-world Multi-task Agents with
-Memory-Augmented Multimodal Language Models [Github](https://github.com/CraftJarvis/JARVIS-1)
-![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star)
+- [**QueryAgent**](https://arxiv.org/pdf/2403.11886.pdf) - QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback-based Self-Correction. [Github](https://github.com/cdhx/QueryAgent)
 
-- [**AppAgent**](https://arxiv.org/pdf/2312.13771.pdf) - AppAgent: Multimodal Agents as Smartphone Users [Github](https://github.com/mnotgod96/AppAgent)
-![Star](https://img.shields.io/github/stars/mnotgod96/AppAgent.svg?style=social&label=Star)
+##### Trajectory_Analyse
 
-- [**MM-Navigator**](https://arxiv.org/pdf/2311.07562.pdf) - GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation [Github](https://github.com/zzxslp/MM-Navigator)
-![Star](https://img.shields.io/github/stars/zzxslp/MM-Navigator.svg?style=social&label=Star)
+- [**ExpeL**](https://arxiv.org/pdf/2308.10144.pdf) - ExpeL: LLM Agents Are Experiential Learners. [Github](https://github.com/LeapLabTHU/ExpeL)
 
-- [**Copilot**](https://arxiv.org/pdf/2310.12404.pdf) - Loop Copilot: Conducting AI Ensembles for Music
-Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copilot/)
-![Star](https://img.shields.io/github/stars/ldzhangyx/loop-copilot.svg?style=social&label=Star)
+- [**Autoact**](https://arxiv.org/pdf/2401.05268.pdf) - Autoact: Automatic agent learning from scratch via self-planning. [Github](https://github.com/zjunlp/AutoAct)
 
-- [**WavJourney**](https://arxiv.org/pdf/2310.12404.pdf) - WavJourney: Compositional Audio Creation with Large Language Models [Github](https://github.com/Audio-AGI/WavJourney)
-![Star](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)
+- [**ETO**](https://arxiv.org/pdf/2403.02502.pdf) - Trial and Error: Exploration-Based Trajectory Optimization for LLM Agents. [Github](https://github.com/Yifan-Song793/ETO)
 
-- [**DLAH**](https://arxiv.org/pdf/2307.07162.pdf) - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)
-![Star](https://img.shields.io/github/stars/PJLab-ADG/DriveLikeAHuman.svg?style=social&label=Star)
+##### Thinking_Summarize
 
-- [**Cradle**](https://arxiv.org/pdf/2403.03186.pdf) - Towards General Computer Control: A Multimodal Agent for Red Dead Redemption II as a Case Study [Github](https://github.com/BAAI-Agents/Cradle) ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star)
+- [**Reflexion**](https://arxiv.org/pdf/2303.11366.pdf) - Reflexion: Language Agents with Verbal Reinforcement Learning. [Github](https://github.com/noahshinn/reflexion)
 
-- [**VideoAgent**](https://arxiv.org/abs/2403.11481) -- VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding [Project page](https://videoagent.github.io/)
+- [**TiM**](https://arxiv.org/pdf/2311.08719.pdf) - Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory.
 
-#### Multi-Agent
-
-- [**MP5**](https://arxiv.org/pdf/2312.07472.pdf) - MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception [Github](https://github.com/IranQin/MP5)
-![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star)
-
-- [**MemoDroid**](https://arxiv.org/pdf/2312.03003.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation
-
-- [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - avis: autonomous visual information seeking with large language model agent
-
-- [**Agent-Smith**](https://arxiv.org/pdf/2402.08567.pdf) - Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast [Github](https://github.com/sail-sg/Agent-Smith)![Star](https://img.shields.io/github/stars/sail-sg/Agent-Smith.svg?style=social&label=Star)
-
-- [**GenAI**](https://arxiv.org/pdf/2409.11261.pdf) - The Art of Storytelling: Multi-Agent Generative AI for Dynamic
-Multimodal Narratives [Github](https://github.com/ulrs0/The-Art-of-Story-Telling)![Star](https://img.shields.io/github/stars/ulrs0/The-Art-of-Story-Telling.svg?style=social&label=Star)
-
-- [**P2H**](https://arxiv.org/pdf/2409.07246.pdf) - Propaganda to Hate: A Multimodal Analysis of Arabic Memes with Multi-Agent LLMs 
+- [**Agent-pro**](https://arxiv.org/pdf/2402.17574.pdf) - Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization. [Github](https://github.com/zwq2018/Agent-Pro)
+- 
 
 ## Application
 
 <img src="./img/app.png" width="96%" height="96%">
 
-#### 💡 Complex Visual Reasoning Tasks
+#### Social Simulation and Dialogues
 
-- [**ViperGPT**](https://arxiv.org/pdf/2303.08128.pdf) - ViperGPT: Visual Inference via Python Execution for Reasoning [Github](https://github.com/cvlab-columbia/viper)
-![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)
+- [**PerceptiveAgent**](https://arxiv.org/pdf/2406.12707.pdf) - Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction. [Github](https://github.com/Haoqiu-Yan/PerceptiveAgent)
 
-- [**HuggingGPT**](https://arxiv.org/pdf/2303.17580.pdf) - HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [Github](https://github.com/microsoft/JARVIS)
-![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star)
+- [**Generative agents**](https://arxiv.org/pdf/2304.03442.pdf) - Generative agents: Interactive simulacra of human behavior.
 
-- [**Chameleon**](https://arxiv.org/pdf/2304.09842.pdf) - Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [Github](https://github.com/lupantech/chameleon-llm)
-![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star)
+- [**Intention-inInteraction**](https://arxiv.org/pdf/2402.09205.pdf) - Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents. [Github](https://github.com/thunlp/Tell_Me_More)
 
-- [**Visual ChatGPT**](https://arxiv.org/pdf/2303.04671.pdf) - Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models [Github](https://github.com/moymix/TaskMatrix)
-![Star](https://img.shields.io/github/stars/moymix/TaskMatrix.svg?style=social&label=Star)
+- [**Rec4Agentverse**](https://arxiv.org/pdf/2402.18240.pdf) - Prospect Personalized Recommendation on Large Language Model-based Agent Platform. [Github](https://github.com/jizhi-zhang/Rec4Agentverse_Case)
 
-- [**AssistGPT**](https://arxiv.org/pdf/2306.08640.pdf) - AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn [Github](https://github.com/showlab/assistgpt)
-![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+- [**AssistGPT**](https://arxiv.org/pdf/2403.16524.pdf) -  Harnessing the power of
+ llms for normative reasoning in mass. [Github](https://github.com/showlab/assistgpt)
 
 - [**LLaVA-Plus**](https://arxiv.org/pdf/2306.08640.pdf) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills [Github](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)
 ![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Plus-Codebase.svg?style=social&label=Star)
