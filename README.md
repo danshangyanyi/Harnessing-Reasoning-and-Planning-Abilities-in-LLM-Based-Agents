@@ -155,7 +155,6 @@ Last update: 12/05/2024
 - [**TiM**](https://arxiv.org/pdf/2311.08719.pdf) - Think-in-Memory: Recalling and Post-thinking Enable LLMs with Long-Term Memory.
 
 - [**Agent-pro**](https://arxiv.org/pdf/2402.17574.pdf) - Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization. [Github](https://github.com/zwq2018/Agent-Pro)
-- 
 
 ## Application
 
@@ -171,54 +170,29 @@ Last update: 12/05/2024
 
 - [**Rec4Agentverse**](https://arxiv.org/pdf/2402.18240.pdf) - Prospect Personalized Recommendation on Large Language Model-based Agent Platform. [Github](https://github.com/jizhi-zhang/Rec4Agentverse_Case)
 
-- [**AssistGPT**](https://arxiv.org/pdf/2403.16524.pdf) -  Harnessing the power of
- llms for normative reasoning in mass. [Github](https://github.com/showlab/assistgpt)
+- [**Harnessing the power of llms for normative reasoning in mass.**](https://arxiv.org/pdf/2403.16524.pdf)
 
-- [**LLaVA-Plus**](https://arxiv.org/pdf/2306.08640.pdf) - LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills [Github](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)
-![Star](https://img.shields.io/github/stars/LLaVA-VL/LLaVA-Plus-Codebase.svg?style=social&label=Star)
+- [**Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View**](https://arxiv.org/pdf/2310.02124.pdf) [Github](https://zjunlp.github.io/project/MachineSoM/)
 
-- [**GPT4Tools**](https://arxiv.org/pdf/2305.18752.pdf) - GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [Github](https://github.com/AILab-CVC/GPT4Tools)
-![Star](https://img.shields.io/github/stars/AILab-CVC/GPT4Tools.svg?style=social&label=Star)
+- [**Polarization of Autonomous Generative AI Agents Under Echo Chambers**](https://arxiv.org/pdf/2402.12212.pdf)
 
-- [**MLLM-Tool**](https://arxiv.org/pdf/2401.10727.pdf) - MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning [Github](https://github.com/MLLM-Tool/MLLM-Tool)
-![Star](https://img.shields.io/github/stars/MLLM-Tool/MLLM-Tool.svg?style=social&label=Star)
+#### Game 
 
-- [**M3**](https://arxiv.org/pdf/2310.08446.pdf) - Towards Robust Multi-Modal Reasoning via Model Selection [Github](https://github.com/LINs-lab/M3)
-![Star](https://img.shields.io/github/stars/showlab/assistgpt.svg?style=social&label=Star)
+- [**PsychoGAT**](https://arxiv.org/pdf/2402.12326.pdf) - PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games with LLM Agents
 
-- [**VisProgram**](https://arxiv.org/pdf/2211.11559.pdf) - Visual Programming: Compositional visual reasoning without training
+- [**Steve-eye**](https://arxiv.org/pdf/2310.13255.pdf) - Steve-eye: Equipping llm-based embodied agents with visual perception in open worlds. [Project](https://sites.google.com/view/steve-eye)
 
-- [**DDCoT**](https://arxiv.org/pdf/2310.16436.pdf) - DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models [Github](https://github.com/SooLab/DDCOT)
-![Star](https://img.shields.io/github/stars/SooLab/DDCOT.svg?style=social&label=Star)
+- [**Voyager**](https://arxiv.org/pdf/2305.16291.pdf) - VOYAGER: An Open-Ended Embodied Agent with Large Language Models.
 
-- [**Avis**](https://arxiv.org/pdf/2306.08129.pdf) - Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation
+- [**ProAgent**](https://arxiv.org/pdf/2308.11339.pdf) - ProAgent: Building Proactive Cooperative Agents with Large Language Models [Github](https://pku-proagent.github.io)
 
-- [**CLOVA**](https://arxiv.org/pdf/2312.10908.pdf) - CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update
+- [**Agent-pro**](https://arxiv.org/pdf/2402.17574.pdf) - Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization. [Github](https://github.com/zwq2018/Agent-Pro)
 
-- [**CRAFT**](https://arxiv.org/pdf/2309.17428.pdf) - CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets
+- [**GITM**](https://arxiv.org/pdf/2305.17144.pdf) - Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory. [Github](https://github.com/OpenGVLab/GITM)
 
-- [**MuLan**](https://arxiv.org/pdf/2402.12741.pdf) - MuLan: Multimodal-LLM Agent for Progressive Multi-Object Diffusion [Github](https://github.com/measure-infinity/mulan-code)
-![Star](https://img.shields.io/github/stars/measure-infinity/mulan-code.svg?style=social&label=Star)
+- [**Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf**](https://arxiv.org/pdf/2309.04658.pdf)
 
-#### 🎵 Audio Editing & Generation
-
-- [**Copilot**](https://arxiv.org/pdf/2310.12404.pdf) - Loop Copilot: Conducting AI Ensembles for Music
-Generation and Iterative Editing [Github](https://github.com/ldzhangyx/loop-copilot/)
-![Star](https://img.shields.io/github/stars/ldzhangyx/loop-copilot.svg?style=social&label=Star)
-
-- [**MusicAgent**](https://arxiv.org/pdf/2310.11954.pdf) - MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models [Github](https://github.com/microsoft/muzic/tree/main)
-![Star](https://img.shields.io/github/stars/microsoft/muzic.svg?style=social&label=Star)
-
-- [**AudioGPT**](https://arxiv.org/pdf/2304.12995.pdf) - AudioGPT: Understanding and Generating Speech,
-Music, Sound, and Talking Head [Github](https://github.com/AIGC-Audio/AudioGPT)
-![Star](https://img.shields.io/github/stars/AIGC-Audio/AudioGPT.svg?style=social&label=Star)
-
-- [**WavJourney**](https://arxiv.org/pdf/2310.12404.pdf) - WavJourney: Compositional Audio Creation with Large Language Models [Github](https://github.com/Audio-AGI/WavJourney)
-![Star](https://img.shields.io/github/stars/Audio-AGI/WavJourney.svg?style=social&label=Star)
-
-- [**OpenOmni**](https://arxiv.org/abs/2408.03047.pdf) - OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents [Github](https://github.com/AI4WA/OpenOmniFramework)
-![Star](https://img.shields.io/github/stars/AI4WA/OpenOmniFramework.svg?style=social&label=Star)
-
+- [**LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models**](https://arxiv.org/pdf/2404.01230.pdf)
 
 #### 🤖 Embodied AI & Robotics
 
